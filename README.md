@@ -1,6 +1,6 @@
 # CFV (CamFecting-Virus)
 
-The script depicts the victim once an hour and sends it to you.
+It is a virus that images the victim from the front camera of his device once every hour and send it to you.
 
 ----
 * `Requirements change in the script:`
