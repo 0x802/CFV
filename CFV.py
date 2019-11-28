@@ -15,8 +15,8 @@ from concurrent.futures import ThreadPoolExecutor as TPPE
 ####### [*] Start : Upload #######
 class Upload(object):
     def __init__(self):
-        self.user       = 'nesoj52149@4xmail.net' # Your Email in Mega.nz
-        self.password   = 'nesoj52149@4xmail.netnesoj52149@4xmail.net' # Your Password in Mega.nz
+        self.user       = 'Your Email Address' # Your Email in Mega.nz
+        self.password   = 'Your Password' # Your Password in Mega.nz
         self.Error      = lambda lib: ImportError(f"Please install \
         {lib} or write\npython3 -m pip install -r requirements.txt ") # Error Import Models
             
